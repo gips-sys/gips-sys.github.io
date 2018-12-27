@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gips-sys.hu",
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1602,10 +1602,10 @@
         }
       ]
     },
-    "page4.html": {
+    "page2.html": {
       "settings": {
         "title": "Árlista",
-        "meta_descr": "bcvhv",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
